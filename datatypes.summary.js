@@ -36,7 +36,7 @@ const myFunction = function() {
     console.log("Hello world");
 }
 
-console.log(typeof Bignumb)
+console.log(typeof Bignumber)
 //typeof Operator Results
 
 Undefined =	"undefined"
